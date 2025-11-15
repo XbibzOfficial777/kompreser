@@ -1,6 +1,6 @@
 {
   "name": "@xbibzlibrary/kompreser",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The most advanced JavaScript image compression and conversion library with support for all image formats, enterprise-grade performance, and comprehensive error handling",
   "main": "dist/kompreser.cjs.js",
   "module": "dist/kompreser.esm.js",
@@ -38,12 +38,12 @@
   ],
   "author": {
     "name": "Xbibz Official",
-    "email": "contact@xbibz.com",
-    "url": "https://github.com/Habibzz01"
+    "email": "xbibzofficial@gmail.com",
+    "url": "https://github.com/XbibzOfficial777"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Habibzz01/kompreser.git"
+    "url": "https://github.com/XbibzOfficial777/kompreser.git"
   },
   "bugs": {
     "url": "https://github.com/Habibzz01/kompreser/issues"

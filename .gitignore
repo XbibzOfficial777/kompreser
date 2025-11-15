@@ -3,6 +3,7 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.git
 
 # Build outputs
 dist/
@@ -101,3 +102,4 @@ temp/
 .dev
 .cacheupgitv1.sh
 /data/data/com.termux/files/home/.config/github-auto-upload
+upgitv1.sh

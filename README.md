@@ -447,7 +447,7 @@ self.addEventListener('message', async event => {
 
 ```bash
 # Clone the repository
-git clone https://github.com/Habibzz01/kompreser.git
+git clone https://github.com/XbibzOfficial777/kompreser.git
 cd kompreser
 
 # Install dependencies
