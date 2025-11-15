@@ -1,0 +1,108 @@
+{
+  "name": "@xbibzlibrary/kompreser",
+  "version": "1.0.4",
+  "description": "The most advanced JavaScript image compression and conversion library with support for all image formats, enterprise-grade performance, and comprehensive error handling",
+  "main": "dist/kompreser.cjs.js",
+  "module": "dist/kompreser.esm.js",
+  "browser": "dist/kompreser.umd.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "image",
+    "compression",
+    "optimization",
+    "jpeg",
+    "png",
+    "webp",
+    "avif",
+    "svg",
+    "convert",
+    "resize",
+    "canvas",
+    "browser",
+    "javascript",
+    "typescript",
+    "performance",
+    "enterprise",
+    "batch-processing",
+    "metadata",
+    "exif",
+    "progressive",
+    "kompreser",
+    "xbibz"
+  ],
+  "author": {
+    "name": "Xbibz Official",
+    "email": "contact@xbibz.com",
+    "url": "https://github.com/Habibzz01"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Habibzz01/kompreser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Habibzz01/kompreser/issues"
+  },
+  "homepage": "https://github.com/Habibzz01/kompreser#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 11"
+  ],
+  "size-limit": [
+    {
+      "path": "dist/kompreser.min.js",
+      "limit": "50 KB"
+    },
+    {
+      "path": "dist/kompreser.esm.js",
+      "limit": "45 KB"
+    }
+  ],
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "@types/jest": "^29.5.8",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "rollup": "^4.5.0",
+    "rollup-plugin-filesize": "^10.0.0",
+    "rollup-plugin-visualizer": "^5.9.2",
+    "size-limit": "^10.0.2",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "pica": "^9.0.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/XbibzOfficial"
+  },
+  "social": {
+    "telegram": "https://t.me/XbibzOfficial",
+    "tiktok": "https://tiktok.com/@xbibzofficiall",
+    "donate": "https://ko-fi.com/XbibzOfficial"
+  }
+}
